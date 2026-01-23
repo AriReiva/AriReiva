@@ -33,9 +33,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AriReiva/ExamppApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReiva&repo=ExamppApp&theme=tokyonight" />
-  </a>
   <a href="https://github.com/Iftikhar21/Re-Code-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Re-Code-Application&theme=tokyonight" />
   </a>
