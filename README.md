@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ari Reivansyah</h1>
-<h3 align="center">Fullstack Developer | Web • Mobile • Backend</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">Ari Reivansyah</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Web+%7C+Mobile+%7C+Backend;Build+Real+World+Applications" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AriReiva&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,11 +13,11 @@
 ---
 
 ## 🚀 About Me
-- 💻 Fullstack Developer (Web & Mobile)
-- 📱 Android (Kotlin, Jetpack Compose), React Native
-- 🌐 Backend: Express JS, Golang, ASP.NET Core
-- 🧠 Interested in real-world systems & clean architecture
-- 🔥 Experience building POS, Exam, Attendance & Workshop apps
+- 💻 **Fullstack Developer** (Web, Mobile & Backend)
+- 📱 Mobile: **Android (Kotlin, Jetpack Compose)**, **React Native**
+- 🌐 Backend: **Express JS**, **Golang (Go)**, **ASP.NET Core**
+- 🧠 Strong interest in **Clean Architecture & scalable systems**
+- 🔥 Experienced building **POS, Exam, Attendance & Workshop applications**
 
 ---
 
@@ -42,18 +47,18 @@
 
 ### 🧾 Ventra Web – POS System
 🔗 https://github.com/Iftikhar21/Ventra-Web  
-🛠 Express JS · REST API · Web POS  
-📝 Sistem POS berbasis web untuk manajemen transaksi & produk
+🛠 **Express JS · REST API**  
+📝 Web-based Point of Sale system for product, transaction, and user management
 
-### 🛠 Gaspol Backend – Aplikasi Bengkel
+### 🛠 Gaspol Backend – Workshop System
 🔗 https://github.com/AriReiva/gaspol_be  
-🛠 Express JS · Node.js · REST API  
-📝 Backend sistem bengkel (servis, transaksi, manajemen data)
+🛠 **Node.js · Express JS · REST API**  
+📝 Backend service for workshop operations including services & transactions
 
 ### ⚙️ Bangkitcell Backend
 🔗 https://github.com/AriReiva/BangkitcellBe  
-🛠 Golang · REST API  
-📝 Backend API menggunakan Go untuk performa & efisiensi
+🛠 **Golang · REST API**  
+📝 High-performance backend API built with Go
 
 ---
 
@@ -61,44 +66,39 @@
 
 ### 📱 Ventra App – POS Android
 🔗 https://github.com/AriReiva/VentraApp  
-📱 Kotlin · Android  
-📝 Aplikasi POS Android untuk transaksi & pencatatan penjualan
+📱 **Kotlin · Android**  
+📝 Android-based POS application for sales & transaction recording
 
-### 🏫 Exam App – Aplikasi Ujian
+### 🏫 Exam App – Online Exam Application
 🔗 https://github.com/AriReiva/ExamppApp  
-📱 Kotlin · Jetpack Compose · SQLite  
-📝 Aplikasi ujian online dengan jadwal, hasil ujian & WebView form
+📱 **Kotlin · Jetpack Compose · SQLite**  
+📝 Online exam app with schedules, exam results, and WebView-based forms
 
-### 🚗 Gaspol Mobile – Aplikasi Bengkel
+### 🚗 Gaspol Mobile – Workshop App
 🔗 https://github.com/AriReiva/gaspol  
-📱 React Native  
-📝 Aplikasi bengkel mobile terintegrasi backend Express JS
+📱 **React Native**  
+📝 Mobile workshop application integrated with Express JS backend
 
-### 📍 Attendance App – Absensi Geofence
+### 📍 Attendance App – Geofence Based
 🔗 https://github.com/Iftikhar21/Re-Code-Application  
-📱 Android · Geofence · Location API  
-📝 Aplikasi absensi berbasis lokasi dengan validasi area (geofencing)
+📱 **Android · Geofencing · Location API**  
+📝 Location-based attendance system using geofence validation
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Node.js · Express JS
-- Golang (Go)
-- ASP.NET Core
+**Backend**  
+Node.js · Express JS · Golang · ASP.NET Core  
 
-**Mobile**
-- Android (Kotlin, Jetpack Compose)
-- React Native
+**Mobile**  
+Android (Kotlin, Jetpack Compose) · React Native  
 
-**Frontend**
-- React JS
-- HTML · CSS · JavaScript
+**Frontend**  
+React JS · HTML · CSS · JavaScript  
 
-**Database**
-- MySQL
-- SQLite
+**Database**  
+MySQL · SQLite  
 
 ---
 
@@ -122,7 +122,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ari-reivansyah-14795b288/
-- 📧 Email: your@email.com
+- 📧 Email: rrardi0202@email.com
 
 ---
 
