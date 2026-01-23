@@ -1,94 +1,129 @@
 <h1 align="center">Hi 👋, I'm Ari Reivansyah</h1>
-<h3 align="center">Fullstack Developer | Web & Mobile</h3>
+<h3 align="center">Fullstack Developer | Web • Mobile • Backend</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AriReivansyah&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AriReiva&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 💻 Fullstack Developer (Web & Mobile)
-- 🔥 Laravel · ASP.NET Core · Java · Kotlin · React
-- 🧠 Interested in Clean Architecture & Real-World Apps
-- 🛠 Often build POS, Exam App, Koperasi System
+- 📱 Android (Kotlin, Jetpack Compose), React Native
+- 🌐 Backend: Express JS, Golang, ASP.NET Core
+- 🧠 Interested in real-world systems & clean architecture
+- 🔥 Experience building POS, Exam, Attendance & Workshop apps
 
 ---
 
 ## ⭐ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AriReivansyah/Barangku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReivansyah&repo=Barangku&theme=tokyonight" />
+  <a href="https://github.com/AriReiva/VentraApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReiva&repo=VentraApp&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AriReivansyah/ExamApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReivansyah&repo=ExamApp&theme=tokyonight" />
+  <a href="https://github.com/Iftikhar21/Ventra-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Ventra-Web&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AriReiva/ExamppApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReiva&repo=ExamppApp&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Iftikhar21/Re-Code-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Re-Code-Application&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-## 💻 Web Projects
+## 💻 Web & Backend Projects
 
-### 🛒 Barangku – POS & Inventory
-🔗 https://github.com/AriReivansyah/Barangku  
-🛠 ASP.NET Core 8 · SQL Server · Docker  
-📝 Sistem kasir, manajemen produk, transaksi, role user
+### 🧾 Ventra Web – POS System
+🔗 https://github.com/Iftikhar21/Ventra-Web  
+🛠 Express JS · REST API · Web POS  
+📝 Sistem POS berbasis web untuk manajemen transaksi & produk
 
-### 🏢 Koperasi App
-🔗 https://github.com/AriReivansyah/KoperasiApp  
-🛠 Java · Vaadin · MVC  
-📝 Sistem koperasi simpan pinjam berbasis web
+### 🛠 Gaspol Backend – Aplikasi Bengkel
+🔗 https://github.com/AriReiva/gaspol_be  
+🛠 Express JS · Node.js · REST API  
+📝 Backend sistem bengkel (servis, transaksi, manajemen data)
+
+### ⚙️ Bangkitcell Backend
+🔗 https://github.com/AriReiva/BangkitcellBe  
+🛠 Golang · REST API  
+📝 Backend API menggunakan Go untuk performa & efisiensi
 
 ---
 
 ## 📱 Mobile Projects
 
-### 🏫 Exam App – Online Exam
-🔗 https://github.com/AriReivansyah/ExamApp  
+### 📱 Ventra App – POS Android
+🔗 https://github.com/AriReiva/VentraApp  
+📱 Kotlin · Android  
+📝 Aplikasi POS Android untuk transaksi & pencatatan penjualan
+
+### 🏫 Exam App – Aplikasi Ujian
+🔗 https://github.com/AriReiva/ExamppApp  
 📱 Kotlin · Jetpack Compose · SQLite  
-📝 Aplikasi ujian online berbasis Android
+📝 Aplikasi ujian online dengan jadwal, hasil ujian & WebView form
+
+### 🚗 Gaspol Mobile – Aplikasi Bengkel
+🔗 https://github.com/AriReiva/gaspol  
+📱 React Native  
+📝 Aplikasi bengkel mobile terintegrasi backend Express JS
+
+### 📍 Attendance App – Absensi Geofence
+🔗 https://github.com/Iftikhar21/Re-Code-Application  
+📱 Android · Geofence · Location API  
+📝 Aplikasi absensi berbasis lokasi dengan validasi area (geofencing)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**  
-PHP · Laravel · ASP.NET Core · Java
+**Backend**
+- Node.js · Express JS
+- Golang (Go)
+- ASP.NET Core
 
-**Frontend**  
-React · Bootstrap · CSS
+**Mobile**
+- Android (Kotlin, Jetpack Compose)
+- React Native
 
-**Mobile**  
-Android · Kotlin · Jetpack Compose
+**Frontend**
+- React JS
+- HTML · CSS · JavaScript
 
-**Database**  
-MySQL · SQL Server · SQLite
+**Database**
+- MySQL
+- SQLite
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriReivansyah&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AriReiva&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReivansyah&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReiva&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReivansyah&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/ari-reivansyah-14795b288/
 - 📧 Email: your@email.com
 
 ---
 
-✨ *Code. Build. Improve. Repeat.*
+✨ *Build real systems. Learn continuously. Improve every day.*
