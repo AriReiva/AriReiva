@@ -24,19 +24,52 @@ I’m a **Fullstack Developer** focused on building **maintainable, scalable, an
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Languages
 
-**Backend**  
-Node.js · Express JS · Golang · ASP.NET Core  
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-**Mobile**  
-Android (Kotlin, Jetpack Compose) · React Native  
+---
 
-**Frontend**  
-React JS · HTML · CSS · JavaScript  
+## ⚙️ Frameworks & Libraries
 
-**Database**  
-MySQL · SQLite  
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside"/>
+  <img src="https://img.shields.io/badge/Greenfoot-2E8B57?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -59,54 +92,14 @@ MySQL · SQLite
 
 ---
 
-## 💻 Web & Backend Projects
-
-### Ventra Web – POS System
-🔗 https://github.com/Iftikhar21/Ventra-Web  
-🛠 **PHP**  
-📝 Web-based Point of Sale system for managing products, transactions, and users.
-
-### Gaspol Backend – Workshop System
-🔗 https://github.com/AriReiva/gaspol_be  
-🛠 **Node.js · Express JS · REST API**  
-📝 Backend service for workshop operations including services and transactions.
-
-### Bangkitcell Backend
-🔗 https://github.com/AriReiva/BangkitcellBe  
-🛠 **Golang · REST API**  
-📝 High-performance backend API built with Go.
-
----
-
-## 📱 Mobile Projects
-
-### Ventra App – POS Android
-🔗 https://github.com/AriReiva/VentraApp  
-📱 **Kotlin · Android**  
-📝 Android-based POS application for sales and transaction recording.
-
-### Exam App – Online Exam Application
-🔗 https://github.com/AriReiva/ExamppApp  
-📱 **Kotlin · Jetpack Compose · SQLite**  
-📝 Online exam application with schedules, exam results, and WebView-based forms.
-
-### Gaspol Mobile – Workshop App
-🔗 https://github.com/AriReiva/gaspol  
-📱 **React Native**  
-📝 Mobile workshop application integrated with Express JS backend.
-
-### Attendance App – Geofence Based
-🔗 https://github.com/Iftikhar21/Re-Code-Application  
-📱 **Android · Geofencing · Location API**  
-📝 Location-based attendance system using geofence validation.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AriReiva&show_icons=true&theme=github_dark&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=github_dark&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AriReiva&show_icons=true&theme=github_dark&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=github_dark&cache_seconds=86400" />
 </p>
 
 ---
