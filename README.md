@@ -44,7 +44,7 @@
 
 ### 🧾 Ventra Web – POS System
 🔗 https://github.com/Iftikhar21/Ventra-Web  
-🛠 **Express JS · REST API**  
+🛠 **PHP**  
 📝 Web-based Point of Sale system for product, transaction, and user management
 
 ### 🛠 Gaspol Backend – Workshop System
