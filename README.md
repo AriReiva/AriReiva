@@ -19,7 +19,7 @@ I’m a **Fullstack Developer** focused on building **maintainable, scalable, an
 - 💻 Fullstack Developer (Web, Mobile & Backend)
 - 📱 Mobile: **Android (Kotlin, Jetpack Compose)**, **React Native**
 - 🌐 Backend: **Node.js (Express JS)**, **Golang (Go)**, **ASP.NET Core**
-- 🧠 Strong interest in **Clean Architecture & system design**
+- 🧠 Strong interest in **logical thinking & problem-solving**
 - 🔥 Experience in **POS, Exam, Attendance, and Workshop systems**
 
 ---
