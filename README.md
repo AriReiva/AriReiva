@@ -106,14 +106,7 @@ MySQL · SQLite
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AriReiva&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReiva&theme=github_dark" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=github_dark" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=github_dark" />
 </p>
 
 ---
