@@ -111,6 +111,10 @@ MySQL · SQLite
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AriReiva&theme=github-dark" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AriReiva&theme=github-dark&hide_border=true" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=github_dark" />
