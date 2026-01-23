@@ -109,7 +109,7 @@ MySQL · SQLite
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReiva&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=AriReiva&theme=github-dark" />
 </p>
 
 <p align="center">
