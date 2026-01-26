@@ -83,6 +83,11 @@ While I work across web and mobile, my **strongest expertise is backend developm
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Ventra-Web&theme=default" />
   </a>
 </p>
+<p align="center"> 
+  <a href="https://github.com/Iftikhar21/Re-Code-Application"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Re-Code-Application&theme=default" /> 
+  </a> 
+</p>
 
 ---
 
