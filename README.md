@@ -101,11 +101,11 @@ While I work across **Web and Mobile development**, my **main expertise is backe
 <p align="center">
 
 <a href="https://github.com/AriReiva/VentraApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReiva&repo=VentraApp&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReiva&repo=VentraApp&theme=tokyonightt"/>
 </a>
 
 <a href="https://github.com/Iftikhar21/Ventra-Web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Ventra-Web&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Ventra-Web&theme=tokyonightt"/>
 </a>
 
 </p>
@@ -113,7 +113,7 @@ While I work across **Web and Mobile development**, my **main expertise is backe
 <p align="center">
 
 <a href="https://github.com/Iftikhar21/Re-Code-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Re-Code-Application&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Re-Code-Application&theme=tokyonightt"/>
 </a>
 
 </p>
@@ -124,19 +124,19 @@ While I work across **Web and Mobile development**, my **main expertise is backe
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AriReiva&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AriReiva&show_icons=true&theme=tokyonightt"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=tokyonightt"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReiva&theme=default"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReiva&theme=tokyonightt"/>
 
 </p>
 
