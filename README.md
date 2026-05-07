@@ -73,21 +73,52 @@ I've built production systems for:
 
 ## ⭐ Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Ventra App</h3>
 <div align="center">
-
-<a href="https://github.com/AriReiva/VentraApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AriReiva&repo=VentraApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%"/>
+<a href="https://github.com/AriReiva/VentraApp" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
-
-<a href="https://github.com/Iftikhar21/Ventra-Web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Ventra-Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%"/>
-</a>
-
-<a href="https://github.com/Iftikhar21/Re-Code-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iftikhar21&repo=Re-Code-Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%"/>
-</a>
-
+<p><strong>Kotlin • Android • REST API</strong></p>
+<p>Mobile application for workshop management with comprehensive inventory and service tracking features.</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">🌐 Ventra Web</h3>
+<div align="center">
+<a href="https://github.com/Iftikhar21/Ventra-Web" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+<p><strong>Laravel • PHP • MySQL</strong></p>
+<p>Web platform for workshop management with real-time data synchronization and reporting.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📝 Re-Code Application</h3>
+<div align="center">
+<a href="https://github.com/Iftikhar21/Re-Code-Application" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+<p><strong>ASP.NET • C# • SQL Server</strong></p>
+<p>Examination platform with secure test management and automated grading system.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💼 More Projects</h3>
+<div align="center">
+<a href="https://github.com/AriReiva?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/View_All-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
+</a>
+<p><strong>Check out more on GitHub</strong></p>
+<p>Explore all my repositories and contributions on my GitHub profile.</p>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
