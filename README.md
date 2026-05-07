@@ -16,25 +16,25 @@
 
 ## 🎯 About Me
 
-```typescript
-const ari = {
-    role: "Backend-Focused Fullstack Developer",
-    location: "Indonesia 🇮🇩",
-    focus: ["System Architecture", "API Development", "Database Design"],
-    passion: "Building scalable and maintainable systems",
-    expertise: {
-        backend: ["RESTful APIs", "Microservices", "Database Optimization"],
-        fullstack: ["Web Applications", "Mobile Development"],
-        architecture: ["Clean Code", "Design Patterns", "Scalability"]
-    },
-    realWorldProjects: [
-        "🛒 POS Systems",
-        "📝 Examination Platforms", 
-        "👤 Attendance Systems",
-        "🔧 Workshop Management Systems"
-    ]
-};
-```
+I'm a **Backend-Oriented Fullstack Developer** from Indonesia 🇮🇩, passionate about building **scalable systems, robust APIs, and clean architecture**.
+
+While I work across **Web and Mobile development**, my **main expertise is backend engineering** — focusing on performance, reliability, and maintainability.
+
+### 💡 What I Do Best
+
+- ⚙️ **Backend Engineering** — Building robust server-side systems and APIs
+- 🗄️ **Database Design** — Optimizing data architecture and queries
+- 🌐 **System Architecture** — Designing scalable and maintainable solutions
+- 🔧 **API Development** — Creating RESTful services and microservices
+- 💻 **Fullstack Development** — Web and Mobile applications
+
+### 🔥 Real-World Experience
+
+I've built production systems for:
+- 🛒 **POS Systems** — Point of sale and inventory management
+- 📝 **Examination Platforms** — Secure testing and grading systems
+- 👤 **Attendance Systems** — Employee tracking and reporting
+- 🔧 **Workshop Management** — Service tracking and customer management
 
 ---
 
