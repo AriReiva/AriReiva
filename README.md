@@ -125,18 +125,14 @@ I've built production systems for:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriReiva&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%"/>
-
 </div>
 
 <div align="center">
-
 <a href="https://github.com/AriReiva">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AriReiva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AriReiva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
 </a>
-
 </div>
 
 <div align="center">
