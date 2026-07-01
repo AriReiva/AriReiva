@@ -1,11 +1,8 @@
 <div align="center">
-
 # 👋 Hi, I'm **Ari Reivansyah**
-
 ### 🚀 Backend-Focused Fullstack Developer
-
 *Building scalable systems, clean architectures, and robust APIs*
-
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineering+Specialist;API+%26+System+Architecture;Scalable+%26+Maintainable+Systems;Web+%26+Mobile+Development)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AriReiva&label=Profile%20Views&color=00d9ff&style=for-the-badge)
