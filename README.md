@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a **Backend-Oriented Fullstack Developer** from Indonesia 🇮🇩, passionate about building **scalable systems, robust APIs, and clean architecture**.
+I'm a **Backend-Oriented Fullstack Developer** from Indonesia, passionate about building **scalable systems, robust APIs, and clean architecture**.
 
 While I work across **Web and Mobile development**, my **main expertise is backend engineering** — focusing on performance, reliability, and maintainability.
 
